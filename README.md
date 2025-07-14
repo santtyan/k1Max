@@ -12,13 +12,7 @@
 
 ## Diagrama do Projeto K1Max
 
-Para uma visualização rápida, o diagrama está abaixo (estático no GitHub):
-
 ![Diagrama K1Max](K1.drawio.svg)
-
-Para acessar a versão interativa completa com todas as funcionalidades do Draw.io, clique no link:
-
-[Visualizar Diagrama Interativo K1Max](https://santtyan.github.io/k1Max/K1.drawio.svg)
 
 <img width="623" height="345" alt="image" src="https://github.com/user-attachments/assets/6a8a4d78-891e-4b43-899a-d59e1fcc0f19" />
 
