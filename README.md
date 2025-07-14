@@ -10,11 +10,15 @@
 
 <img width="626" height="342" alt="image" src="https://github.com/user-attachments/assets/49182eba-35d0-4d58-8fbe-2e67cd300014" />
 
-<img width="623" height="350" alt="image" src="https://github.com/user-attachments/assets/c29659c6-b787-43b8-82fd-9208fb9ac41d" />
+## Diagrama do Projeto K1Max
 
-<img width="625" height="345" alt="image" src="https://github.com/user-attachments/assets/e5a66628-0023-4a1b-9445-da93ff36afb4" />
+Para uma visualização rápida, o diagrama está abaixo (estático no GitHub):
 
-<img width="628" height="351" alt="image" src="https://github.com/user-attachments/assets/8fcc5949-9748-4997-82f0-5b8b78aa5eee" />
+![Diagrama K1Max](K1.drawio.svg)
+
+Para acessar a versão interativa completa com todas as funcionalidades do Draw.io, clique no link:
+
+[Visualizar Diagrama Interativo K1Max](https://santtyan.github.io/k1Max/K1.drawio.svg)
 
 <img width="623" height="345" alt="image" src="https://github.com/user-attachments/assets/6a8a4d78-891e-4b43-899a-d59e1fcc0f19" />
 
